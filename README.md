@@ -75,14 +75,45 @@ I build intelligent systems: agents that use language models, pipelines that fee
 
 ## Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-Microsoft-10191A?style=for-the-badge" alt="Azure AI Fundamentals, Microsoft">
-  <img src="https://img.shields.io/badge/Fundamentals_of_Agents-Hugging_Face-10191A?style=for-the-badge&logo=huggingface&logoColor=3FCF9F" alt="Fundamentals of Agents, Hugging Face">
-  <img src="https://img.shields.io/badge/Deep_Learning-NVIDIA-10191A?style=for-the-badge&logo=nvidia&logoColor=3FCF9F" alt="Getting Started with Deep Learning, NVIDIA">
-  <img src="https://img.shields.io/badge/Data_Analytics_Essentials-Cisco-10191A?style=for-the-badge" alt="Data Analytics Essentials, Cisco">
-  <img src="https://img.shields.io/badge/Python_for_Data_Science-CDOSS-10191A?style=for-the-badge" alt="Python for Data Science, CDOSS">
-  <img src="https://img.shields.io/badge/AI_and_ML_Fundamentals-CDOSS-10191A?style=for-the-badge" alt="AI and ML Fundamentals, CDOSS">
-</p> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 992 144" width="992" height="144" role="img" aria-label="Certifications">
+<g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x=".5" y=".5" width="319" height="63" rx="12" fill="#10191A" stroke="#22332C"/>
+<circle cx="26" cy="32" r="11" fill="#0F2A21" stroke="#3FCF9F"/>
+<path d="M21 32l4 4 7-8" fill="none" stroke="#3FCF9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="29" font-size="14.5" font-weight="600" fill="#E6EFE9">Azure AI Fundamentals</text>
+<text x="48" y="48" font-size="12.5" fill="#3FCF9F">Microsoft</text>
+
+<rect x="336.5" y=".5" width="319" height="63" rx="12" fill="#10191A" stroke="#22332C"/>
+<circle cx="362" cy="32" r="11" fill="#0F2A21" stroke="#3FCF9F"/>
+<path d="M357 32l4 4 7-8" fill="none" stroke="#3FCF9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="384" y="29" font-size="14.5" font-weight="600" fill="#E6EFE9">Fundamentals of Agents</text>
+<text x="384" y="48" font-size="12.5" fill="#3FCF9F">Hugging Face</text>
+
+<rect x="672.5" y=".5" width="319" height="63" rx="12" fill="#10191A" stroke="#22332C"/>
+<circle cx="698" cy="32" r="11" fill="#0F2A21" stroke="#3FCF9F"/>
+<path d="M693 32l4 4 7-8" fill="none" stroke="#3FCF9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720" y="29" font-size="13.5" font-weight="600" fill="#E6EFE9">Getting Started with Deep Learning</text>
+<text x="720" y="48" font-size="12.5" fill="#3FCF9F">NVIDIA</text>
+
+<rect x=".5" y="80.5" width="319" height="63" rx="12" fill="#10191A" stroke="#22332C"/>
+<circle cx="26" cy="112" r="11" fill="#0F2A21" stroke="#3FCF9F"/>
+<path d="M21 112l4 4 7-8" fill="none" stroke="#3FCF9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="109" font-size="14.5" font-weight="600" fill="#E6EFE9">Data Analytics Essentials</text>
+<text x="48" y="128" font-size="12.5" fill="#3FCF9F">Cisco</text>
+
+<rect x="336.5" y="80.5" width="319" height="63" rx="12" fill="#10191A" stroke="#22332C"/>
+<circle cx="362" cy="112" r="11" fill="#0F2A21" stroke="#3FCF9F"/>
+<path d="M357 112l4 4 7-8" fill="none" stroke="#3FCF9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="384" y="109" font-size="14.5" font-weight="600" fill="#E6EFE9">Python for Data Science</text>
+<text x="384" y="128" font-size="12.5" fill="#3FCF9F">CDOSS</text>
+
+<rect x="672.5" y="80.5" width="319" height="63" rx="12" fill="#10191A" stroke="#22332C"/>
+<circle cx="698" cy="112" r="11" fill="#0F2A21" stroke="#3FCF9F"/>
+<path d="M693 112l4 4 7-8" fill="none" stroke="#3FCF9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720" y="109" font-size="14.5" font-weight="600" fill="#E6EFE9">AI and ML Fundamentals</text>
+<text x="720" y="128" font-size="12.5" fill="#3FCF9F">CDOSS</text>
+</g>
+</svg>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
