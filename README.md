@@ -75,7 +75,14 @@ I build intelligent systems: agents that use language models, pipelines that fee
 
 ## Certifications
 
-Azure AI Fundamentals (Microsoft) · Fundamentals of Agents (Hugging Face) · Getting Started with Deep Learning (NVIDIA) · Data Analytics Essentials (Cisco) · Python for Data Science and AI and ML Fundamentals (CDOSS)
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-Microsoft-10191A?style=for-the-badge" alt="Azure AI Fundamentals, Microsoft">
+  <img src="https://img.shields.io/badge/Fundamentals_of_Agents-Hugging_Face-10191A?style=for-the-badge&logo=huggingface&logoColor=3FCF9F" alt="Fundamentals of Agents, Hugging Face">
+  <img src="https://img.shields.io/badge/Deep_Learning-NVIDIA-10191A?style=for-the-badge&logo=nvidia&logoColor=3FCF9F" alt="Getting Started with Deep Learning, NVIDIA">
+  <img src="https://img.shields.io/badge/Data_Analytics_Essentials-Cisco-10191A?style=for-the-badge" alt="Data Analytics Essentials, Cisco">
+  <img src="https://img.shields.io/badge/Python_for_Data_Science-CDOSS-10191A?style=for-the-badge" alt="Python for Data Science, CDOSS">
+  <img src="https://img.shields.io/badge/AI_and_ML_Fundamentals-CDOSS-10191A?style=for-the-badge" alt="AI and ML Fundamentals, CDOSS">
+</p> 
 
 <img src="assets/divider.svg" width="100%" alt="">
 
