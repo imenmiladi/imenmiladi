@@ -77,14 +77,13 @@ I build intelligent systems: agents that use language models, pipelines that fee
 ## Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-Microsoft-2F7F6B?style=for-the-badge&labelColor=1F4D43&logo=microsoftazure&logoColor=D1FAE5" alt="Azure AI Fundamentals, Microsoft">
-  <img src="https://img.shields.io/badge/Fundamentals_of_Agents-Hugging_Face-2F7F6B?style=for-the-badge&labelColor=1F4D43&logo=huggingface&logoColor=D1FAE5" alt="Fundamentals of Agents, Hugging Face">
-  <img src="https://img.shields.io/badge/Deep_Learning-NVIDIA-2F7F6B?style=for-the-badge&labelColor=1F4D43&logo=nvidia&logoColor=D1FAE5" alt="Getting Started with Deep Learning, NVIDIA">
-  <img src="https://img.shields.io/badge/Data_Analytics_Essentials-Cisco-2F7F6B?style=for-the-badge&labelColor=1F4D43&logo=cisco&logoColor=D1FAE5" alt="Data Analytics Essentials, Cisco">
-  <img src="https://img.shields.io/badge/Python_for_Data_Science-CDOSS-2F7F6B?style=for-the-badge&labelColor=1F4D43&logo=python&logoColor=D1FAE5" alt="Python for Data Science, CDOSS">
-  <img src="https://img.shields.io/badge/AI_and_ML_Fundamentals-CDOSS-2F7F6B?style=for-the-badge&labelColor=1F4D43" alt="AI and ML Fundamentals, CDOSS">
+  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals_·_Microsoft-334155?style=flat-square" alt="Azure AI Fundamentals, Microsoft">
+  <img src="https://img.shields.io/badge/Fundamentals_of_Agents_·_Hugging_Face-334155?style=flat-square" alt="Fundamentals of Agents, Hugging Face">
+  <img src="https://img.shields.io/badge/Deep_Learning_·_NVIDIA-334155?style=flat-square" alt="Getting Started with Deep Learning, NVIDIA">
+  <img src="https://img.shields.io/badge/Data_Analytics_Essentials_·_Cisco-334155?style=flat-square" alt="Data Analytics Essentials, Cisco">
+  <img src="https://img.shields.io/badge/Python_for_Data_Science_·_CDOSS-334155?style=flat-square" alt="Python for Data Science, CDOSS">
+  <img src="https://img.shields.io/badge/AI_and_ML_Fundamentals_·_CDOSS-334155?style=flat-square" alt="AI and ML Fundamentals, CDOSS">
 </p>
-
 <img src="assets/divider.svg" width="100%" alt="">
 
 <p align="center">
