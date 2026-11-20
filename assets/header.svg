@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Imen Miladi, Software Engineer, AI and Agents, Computer Vision">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1210"/><stop offset="1" stop-color="#12241C"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3FCF9F"/><stop offset="1" stop-color="#0F7A5C"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1A2A23" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="260" fill="url(#bg)"/>
+<rect width="1200" height="260" fill="url(#grid)"/>
+<circle cx="1010" cy="130" r="170" fill="none" stroke="#3FCF9F" stroke-opacity=".10"/>
+<circle cx="1010" cy="130" r="115" fill="none" stroke="#3FCF9F" stroke-opacity=".16"/>
+<circle cx="1010" cy="130" r="60" fill="none" stroke="#3FCF9F" stroke-opacity=".28"/>
+<circle cx="1010" cy="130" r="7" fill="#3FCF9F"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+<rect x="70" y="58" width="64" height="5" rx="2.5" fill="url(#ac)"/>
+<text x="70" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="66" font-weight="700" fill="#E6EFE9">Imen Miladi</text>
+<text x="70" y="172" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="600" fill="#3FCF9F">Software Engineer · AI &amp; Agents · Computer Vision</text>
+<text x="70" y="208" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#9BB0A4">Final-year engineering student at ISI, Tunis El Manar University</text>
+</svg>
