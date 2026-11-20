@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 180" width="480" height="180" role="img" aria-label="Face Recognition Security">
+<rect x=".5" y=".5" width="479" height="179" rx="12" fill="#10191A" stroke="#22332C"/>
+<rect x="0" y="22" width="5" height="40" rx="2.5" fill="#3FCF9F"/>
+<text x="34" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#E6EFE9">Face Recognition Security</text>
+<text x="34" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">Team project. Webcam prototype that recognises known</text>
+<text x="34" y="100" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">people, captures unknown faces and groups intruders</text>
+<text x="34" y="120" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">with DBSCAN, served through a Flask REST API.</text>
+<rect x="34" y="138" width="66" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="67" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">PyTorch</text>
+<rect x="108" y="138" width="59" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="137.5" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">OpenCV</text>
+<rect x="175" y="138" width="59" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="204.5" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">DBSCAN</text>
+<rect x="242" y="138" width="52" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="268" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">Flask</text>
+<rect x="302" y="138" width="66" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="335" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">MongoDB</text>
+</svg>

@@ -37,9 +37,18 @@ I build intelligent systems: agents that use language models, pipelines that fee
   <img src="https://img.shields.io/badge/LangGraph-10191A?style=for-the-badge&logo=langgraph&logoColor=3FCF9F" alt="LangGraph">
   <img src="https://img.shields.io/badge/LangChain-10191A?style=for-the-badge&logo=langchain&logoColor=3FCF9F" alt="LangChain">
   <img src="https://img.shields.io/badge/ChromaDB-10191A?style=for-the-badge&logoColor=3FCF9F" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/Open3D-10191A?style=for-the-badge" alt="Open3D">
+  <img src="https://img.shields.io/badge/SAM-10191A?style=for-the-badge" alt="Segment Anything (SAM)">
   <img src="https://img.shields.io/badge/RAG_·_Guardrails-10191A?style=for-the-badge" alt="RAG and Guardrails">
   <img src="https://img.shields.io/badge/Computer_Vision-10191A?style=for-the-badge" alt="Computer Vision">
   <img src="https://img.shields.io/badge/NLP-10191A?style=for-the-badge" alt="NLP"><br><br>
+  <sub><b>PYTHON LIBRARIES</b></sub><br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" alt="Pandas, NumPy, Matplotlib"><br>
+  <img src="https://img.shields.io/badge/Pydantic-10191A?style=for-the-badge&logo=pydantic&logoColor=3FCF9F" alt="Pydantic">
+  <img src="https://img.shields.io/badge/Seaborn-10191A?style=for-the-badge" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Streamlit-10191A?style=for-the-badge&logo=streamlit&logoColor=3FCF9F" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Pytest-10191A?style=for-the-badge&logo=pytest&logoColor=3FCF9F" alt="Pytest">
+  <img src="https://img.shields.io/badge/Pynguin-10191A?style=for-the-badge" alt="Pynguin"><br><br>
   <sub><b>BACKEND</b></sub><br>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,spring&theme=dark" alt="FastAPI, Flask, Spring Boot"><br><br>
   <sub><b>FRONTEND &amp; MOBILE</b></sub><br>
@@ -57,16 +66,19 @@ I build intelligent systems: agents that use language models, pipelines that fee
 <sub>Most recent first. Cards with a link open the repository.</sub>
 
 <p align="center">
-<a href="https://github.com/imenmiladi/context-swap"><img src="assets/projects/quiz.svg" width="49%" alt="context-swap"></a>
+<a href="https://github.com/imenmiladi/context-swap"><img src="assets\projects\context-swap.svg" width="49%" alt="context-swap"></a>
 
   <a href="https://github.com/imenmiladi/multi-agent-customer-support-system"><img src="assets/projects/multi-agent.svg" width="49%" alt="Multi-Agent Customer Support"></a>
-  <img src="assets/projects/pqc.svg" width="49%" alt="Post-Quantum Security with ML">
+
+   <a href="https://github.com/Maher-bouchrara/face-recognition-intruder-detection"><img src="assets\projects\intruderdetect.svg" width="49%" alt="Face Recognition Security (team project)"></a>
+
+<a href="https://github.com/imenmiladi/ai_sql_agent"><img src="assets/projects/sql-agent.svg" width="49%" alt="AI SQL Agent"></a>
+
+<a href="https://drive.google.com/file/d/1QZAJnOL33UrnKyZPgD6eE4_8QAJag3eM/view"><img src="assets/projects/volume-3d.svg" width="49%" alt="3D Volume Estimation">
+
+  <a href="https://github.com/imenmiladi/devops-pipeline-builder-frontend">
   <img src="assets/projects/devops.svg" width="49%" alt="Automated DevOps Pipeline">
-  <a href="https://github.com/imenmiladi/ai_sql_agent"><img src="assets/projects/sql-agent.svg" width="49%" alt="AI SQL Agent"></a>
-  <a href="https://drive.google.com/file/d/1QZAJnOL33UrnKyZPgD6eE4_8QAJag3eM/view"><img src="assets/projects/volume-3d.svg" width="49%" alt="3D Volume Estimation">
-  <img src="assets/projects/padel.svg" width="49%" alt="Padel Shot Recognition">
-  <img src="assets/projects/hr.svg" width="49%" alt="AI HR Automation">
-  <a href="https://github.com/imenmiladi/quizAppFlutter"><img src="assets/projects/quiz.svg" width="49%" alt="Quiz App"></a>
+  
   
 </p>
 
