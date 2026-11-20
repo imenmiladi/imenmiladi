@@ -27,7 +27,6 @@ I build intelligent systems: agents that use language models, pipelines that fee
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## Tech stack
-
 <p align="center">
   <sub><b>LANGUAGES</b></sub><br>
   <img src="https://skillicons.dev/icons?i=py,java,cpp,dart&theme=dark" alt="Python, Java, C++, Dart"><br><br>
@@ -41,15 +40,14 @@ I build intelligent systems: agents that use language models, pipelines that fee
   <img src="https://img.shields.io/badge/RAG_·_Guardrails-10191A?style=for-the-badge" alt="RAG and Guardrails">
   <img src="https://img.shields.io/badge/Computer_Vision-10191A?style=for-the-badge" alt="Computer Vision">
   <img src="https://img.shields.io/badge/NLP-10191A?style=for-the-badge" alt="NLP">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" alt="Pandas, NumPy, Matplotlib"><br>
-  <img src="https://img.shields.io/badge/Pydantic-10191A?style=for-the-badge&logo=pydantic&logoColor=3FCF9F" alt="Pydantic">
+  <img src="https://img.shields.io/badge/Pandas-10191A?style=for-the-badge&logo=pandas&logoColor=3FCF9F" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-10191A?style=for-the-badge&logo=numpy&logoColor=3FCF9F" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-10191A?style=for-the-badge" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-10191A?style=for-the-badge" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Pydantic-10191A?style=for-the-badge&logo=pydantic&logoColor=3FCF9F" alt="Pydantic">
   <img src="https://img.shields.io/badge/Streamlit-10191A?style=for-the-badge&logo=streamlit&logoColor=3FCF9F" alt="Streamlit">
   <img src="https://img.shields.io/badge/Pytest-10191A?style=for-the-badge&logo=pytest&logoColor=3FCF9F" alt="Pytest">
   <img src="https://img.shields.io/badge/Pynguin-10191A?style=for-the-badge" alt="Pynguin"><br><br>
- 
-  
-  
   <sub><b>BACKEND</b></sub><br>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,spring&theme=dark" alt="FastAPI, Flask, Spring Boot"><br><br>
   <sub><b>FRONTEND &amp; MOBILE</b></sub><br>
@@ -62,6 +60,7 @@ I build intelligent systems: agents that use language models, pipelines that fee
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+<img src="assets/divider.svg" width="100%" alt="">
 ## Featured projects
 
 <sub>Most recent first. Cards with a link open the repository.</sub>
