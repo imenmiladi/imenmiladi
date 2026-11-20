@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/imen-miladi-3b912825b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-10191A?style=for-the-badge&logo=linkedin&logoColor=3FCF9F&labelColor=0B1210" alt="LinkedIn"></a>
   <a href="mailto:miladiphg@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-10191A?style=for-the-badge&logo=gmail&logoColor=3FCF9F&labelColor=0B1210" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=imenmiladi&label=Profile%20views&color=0f7a5c&style=for-the-badge" alt="Profile views">
+ 
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -58,6 +58,7 @@ I build intelligent systems: agents that use language models, pipelines that fee
 
 <p align="center">
 <a href="https://github.com/imenmiladi/context-swap"><img src="assets/projects/quiz.svg" width="49%" alt="context-swap"></a>
+
   <a href="https://github.com/imenmiladi/multi-agent-customer-support-system"><img src="assets/projects/multi-agent.svg" width="49%" alt="Multi-Agent Customer Support"></a>
   <img src="assets/projects/pqc.svg" width="49%" alt="Post-Quantum Security with ML">
   <img src="assets/projects/devops.svg" width="49%" alt="Automated DevOps Pipeline">
