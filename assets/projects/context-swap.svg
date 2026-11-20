@@ -2,10 +2,15 @@
 <rect x=".5" y=".5" width="479" height="179" rx="12" fill="#10191A" stroke="#22332C"/>
 <rect x="0" y="22" width="5" height="40" rx="2.5" fill="#3FCF9F"/>
 <text x="34" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#E6EFE9">context-swap</text>
-<text x="34" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">Python tool for managing and swapping LLM</text>
-<text x="34" y="100" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">conversation context.</text>
-<rect x="34" y="138" width="59" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
-<text x="63.5" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">Python</text>
-<rect x="101" y="138" width="38" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
-<text x="120" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">LLM</text>
+<text x="34" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">Replaces a photo background with a solid colour and</text>
+<text x="34" y="100" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">keeps the cast shadow, rendered in the new colour.</text>
+<text x="34" y="120" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9BB0A4">BiRefNet segmentation, Streamlit app and CLI.</text>
+<rect x="34" y="138" width="73" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="70.5" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">BiRefNet</text>
+<rect x="115" y="138" width="80" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="155" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">Streamlit</text>
+<rect x="203" y="138" width="80" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="243" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">pymatting</text>
+<rect x="291" y="138" width="38" height="24" rx="12" fill="#0F2A21" stroke="#22332C"/>
+<text x="310" y="154" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3FCF9F">shadow map</text>
 </svg>
