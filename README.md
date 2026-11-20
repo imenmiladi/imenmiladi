@@ -33,21 +33,9 @@ I build intelligent systems: agents that use language models, pipelines that fee
   <img src="https://skillicons.dev/icons?i=py,java,cpp,dart&theme=dark" alt="Python, Java, C++, Dart"><br><br>
   <sub><b>AI &amp; MACHINE LEARNING</b></sub><br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn"><br>
-  <img src="https://img.shields.io/badge/LangGraph-10191A?style=for-the-badge&logo=langgraph&logoColor=3FCF9F" alt="LangGraph">
-  <img src="https://img.shields.io/badge/LangChain-10191A?style=for-the-badge&logo=langchain&logoColor=3FCF9F" alt="LangChain">
-  <img src="https://img.shields.io/badge/ChromaDB-10191A?style=for-the-badge&logoColor=3FCF9F" alt="ChromaDB">
-  <img src="https://img.shields.io/badge/Open3D-10191A?style=for-the-badge" alt="Open3D">
-  <img src="https://img.shields.io/badge/SAM-10191A?style=for-the-badge" alt="Segment Anything (SAM)">
-  <img src="https://img.shields.io/badge/RAG_·_Guardrails-10191A?style=for-the-badge" alt="RAG and Guardrails">
-  <img src="https://img.shields.io/badge/Computer_Vision-10191A?style=for-the-badge" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/NLP-10191A?style=for-the-badge" alt="NLP"><br><br>
+  <img src="assets/ai-libraries.svg" width="720" alt="LangGraph, LangChain, ChromaDB, Open3D, SAM, RAG, Guardrails, Computer Vision, NLP"><br><br>
   <sub><b>PYTHON LIBRARIES</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" alt="Pandas, NumPy, Matplotlib"><br>
-  <img src="https://img.shields.io/badge/Pydantic-10191A?style=for-the-badge&logo=pydantic&logoColor=3FCF9F" alt="Pydantic">
-  <img src="https://img.shields.io/badge/Seaborn-10191A?style=for-the-badge" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Streamlit-10191A?style=for-the-badge&logo=streamlit&logoColor=3FCF9F" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Pytest-10191A?style=for-the-badge&logo=pytest&logoColor=3FCF9F" alt="Pytest">
-  <img src="https://img.shields.io/badge/Pynguin-10191A?style=for-the-badge" alt="Pynguin"><br><br>
+  <img src="assets/python-libraries.svg" width="720" alt="Pandas, NumPy, Matplotlib, Seaborn, Pydantic, Streamlit, Pytest, Pynguin"><br><br>
   <sub><b>BACKEND</b></sub><br>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,spring&theme=dark" alt="FastAPI, Flask, Spring Boot"><br><br>
   <sub><b>FRONTEND &amp; MOBILE</b></sub><br>
@@ -57,9 +45,6 @@ I build intelligent systems: agents that use language models, pipelines that fee
   <sub><b>DEVOPS &amp; TOOLS</b></sub><br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Git">
 </p>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
 ## Featured projects
 
 <sub>Most recent first. Cards with a link open the repository.</sub>
