@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/imen-miladi-3b912825b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-10191A?style=for-the-badge&logo=linkedin&logoColor=3FCF9F&labelColor=0B1210" alt="LinkedIn"></a>
   <a href="mailto:miladiphg@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-10191A?style=for-the-badge&logo=gmail&logoColor=3FCF9F&labelColor=0B1210" alt="Email"></a>
- 
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -66,20 +65,12 @@ I build intelligent systems: agents that use language models, pipelines that fee
 <sub>Most recent first. Cards with a link open the repository.</sub>
 
 <p align="center">
-<a href="https://github.com/imenmiladi/context-swap"><img src="assets\projects\context-swap.svg" width="49%" alt="context-swap"></a>
-
+  <a href="https://github.com/imenmiladi/context-swap"><img src="assets/projects/context-swap.svg" width="49%" alt="context-swap"></a>
   <a href="https://github.com/imenmiladi/multi-agent-customer-support-system"><img src="assets/projects/multi-agent.svg" width="49%" alt="Multi-Agent Customer Support"></a>
-
-   <a href="https://github.com/Maher-bouchrara/face-recognition-intruder-detection"><img src="assets\projects\intruderdetect.svg" width="49%" alt="Face Recognition Security (team project)"></a>
-
-<a href="https://github.com/imenmiladi/ai_sql_agent"><img src="assets/projects/sql-agent.svg" width="49%" alt="AI SQL Agent"></a>
-
-<a href="https://drive.google.com/file/d/1QZAJnOL33UrnKyZPgD6eE4_8QAJag3eM/view"><img src="assets/projects/volume-3d.svg" width="49%" alt="3D Volume Estimation">
-
-  <a href="https://github.com/imenmiladi/devops-pipeline-builder-frontend">
-  <img src="assets/projects/devops.svg" width="49%" alt="Automated DevOps Pipeline">
-  
-  
+  <a href="https://github.com/Maher-bouchrara/face-recognition-intruder-detection"><img src="assets/projects/intruderdetect.svg" width="49%" alt="Face Recognition Security (team project)"></a>
+  <a href="https://github.com/imenmiladi/ai_sql_agent"><img src="assets/projects/sql-agent.svg" width="49%" alt="AI SQL Agent"></a>
+  <a href="https://drive.google.com/file/d/1QZAJnOL33UrnKyZPgD6eE4_8QAJag3eM/view"><img src="assets/projects/volume-3d.svg" width="49%" alt="3D Volume Estimation"></a>
+  <a href="https://github.com/imenmiladi/devops-pipeline-builder-frontend"><img src="assets/projects/devops.svg" width="49%" alt="Automated DevOps Pipeline"></a>
 </p>
 
 ## Certifications
@@ -87,7 +78,6 @@ I build intelligent systems: agents that use language models, pipelines that fee
 Azure AI Fundamentals (Microsoft) · Fundamentals of Agents (Hugging Face) · Getting Started with Deep Learning (NVIDIA) · Data Analytics Essentials (Cisco) · Python for Data Science and AI and ML Fundamentals (CDOSS)
 
 <img src="assets/divider.svg" width="100%" alt="">
-
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Thanks for visiting">
